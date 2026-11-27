@@ -11,13 +11,9 @@ Admin loader, PUBG, INSERT, F4. Windows 10/11, Steam.
 
 ## Notes
 
-## Notes
-
 - keep loader and config.json together
 - close other overlays before attaching
 - first launch after a patch is slower while offsets load
-
-## Troubleshooting
 
 ## Troubleshooting
 
@@ -33,8 +29,6 @@ Admin loader, PUBG, INSERT, F4. Windows 10/11, Steam.
 
 ## FAQ
 
-## FAQ
-
 **External or internal?** Read the first line.
 
 **Free?** Yes, no key.
@@ -42,8 +36,6 @@ Admin loader, PUBG, INSERT, F4. Windows 10/11, Steam.
 **Config transfer?** Copy config.json next to the loader.
 
 **Patch day?** Wait for the release, do not mix offsets.
-
-## Visual tuning
 
 ## Visual tuning
 
@@ -57,11 +49,7 @@ Admin loader, PUBG, INSERT, F4. Windows 10/11, Steam.
 
 ## Architecture
 
-## Architecture
-
 The loader stays outside the client, reads through a handle and paints its own overlay. Nothing is injected, so a game crash never takes the tool with it.
-
-## Compatibility
 
 ## Compatibility
 
